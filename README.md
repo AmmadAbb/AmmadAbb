@@ -125,14 +125,6 @@ Developing custom plugins for gameplay, administration, and server optimization.
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=AmmadAbb&theme=tokyonight&row=1&column=6&no-frame=true"/>
-</p>
-
----
-
 # 🌐 Connect With Me
 
 <p align="center">
