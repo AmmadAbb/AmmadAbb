@@ -131,8 +131,13 @@ Developing custom plugins for gameplay, administration, and server optimization.
   <a href="https://github.com/AmmadAbb">
     <img src="https://skillicons.dev/icons?i=github"/>
   </a>
+
   <a href="https://www.linkedin.com/in/ammad-abbas-8324b3298/">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
+  </a>
+
+  <a href="https://discord.horizonnetwork.fun">
+    <img src="https://skillicons.dev/icons?i=discord"/>
   </a>
 </p>
 
