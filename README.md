@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1200&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+scalable+backend+systems;Creating+Minecraft+experiences;Optimizing+servers+for+performance;Always+learning+new+technologies;Turning+ideas+into+reality" alt="Typing SVG" />
 </p>
 
-<h1 align="center">Muhammad Ammad Abbas</h1>
+<h1 align="center">Ammad Abbas</h1>
 
 <h3 align="center">
 Backend Developer • Java Developer • Minecraft Infrastructure Engineer
@@ -155,3 +155,5 @@ Developing custom plugins for gameplay, administration, and server optimization.
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,100:2563EB"/>
 </p>
+© 2026 Ammad Abbas. All rights reserved.
+
